@@ -1,0 +1,22 @@
+body{padding:0;margin:10px 10%;background-color:grey;font-family: }
+.main{background:white;}
+.header{}
+.header img{width:100%;height:auto;}
+.menubar{}
+.menubar ul{ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;}
+.menubar ul li{display:block;}
+.menubar ul li a{color:white;display:block;float:left;padding:20px;text-decoration:none;font-size:20px}
+.menubar ul li a:hover{background:blue}
+.totalcontent{overflow:hidden;margin:10px}
+.content{width:600px;float:left}
+.sidebar{width:ActiveBorder;float:right; margin-right:10px}
+.footer{background:red;padding:0 5px}
+
+.sidebar ol{}
+.sidebar ol li{}
+.sidebar ol li a{text-decoration:none;font-size:20px;display:block; width:65px}
+.sidebar ol li a:hover{background-color:red}
